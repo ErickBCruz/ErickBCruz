@@ -18,7 +18,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p>
 <a href="mailto:erickbaezcruz@gmail.com"><img src="https://img.shields.io/badge/-ErickBaez-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/erickandres.baezcruz"><img src="https://img.shields.io/badge/-ErickBaez-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
